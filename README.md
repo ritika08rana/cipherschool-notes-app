@@ -3,7 +3,7 @@
 
 To install and run the Good Note locally, follow these steps:
 
-    Clone the Repository: git clone 
+    Clone the Repository: git clone https://github.com/ritika08rana/cipherschool-notes-app/tree/main
 
     Install Dependencies: npm install
 
